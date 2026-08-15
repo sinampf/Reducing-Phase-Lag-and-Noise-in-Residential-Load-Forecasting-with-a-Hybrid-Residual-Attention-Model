@@ -1,0 +1,8 @@
+=== FINAL MODEL PERFORMANCE ===
+R2 Score : 0.9063
+MAE      : 12.9978 W
+RMSE     : 22.0043 W
+MAPE     : 13.12 %
+------------------------------
+Accuracy (Peak) : 0.9663
+F1-Score (Peak) : 0.8529
